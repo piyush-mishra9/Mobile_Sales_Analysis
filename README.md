@@ -70,7 +70,8 @@ This project is an end-to-end **Power BI Sales Dashboard** built to analyze mobi
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard screenshots here.)
+<img width="1307" height="735" alt="image" src="https://github.com/user-attachments/assets/9c4d4545-5861-4085-bdf8-70b1b885697b" />
+
 
 ---
 
